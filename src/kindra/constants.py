@@ -1,4 +1,4 @@
 from pathlib import Path 
 
 
-KINDLE_DATABASE_DIR = Path("")
+BASE_OUTPUT_DIR = Path("/home/admin/kindra")
